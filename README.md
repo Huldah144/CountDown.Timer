@@ -1,2 +1,2 @@
 # CountDown.Timer
-Time Count-Down
+A Count-Down Timer.
